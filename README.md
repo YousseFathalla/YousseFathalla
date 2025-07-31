@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)](https://skillicons.dev)
 
 
 ---
@@ -15,7 +15,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ![Angular Material](https://img.shields.io/badge/Angular_Material-B3E5FC?style=for-the-badge&logo=angular&logoColor=0D47A1)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FACC15?style=for-the-badge&logo=tailwindcss&logoColor=black)
-[![NgRx](https://img.shields.io/badge/NgRx-5E1F81?style=for-the-badge&logo=redux&logoColor=white)](https://ngrx.io)
+![NgRx](https://img.shields.io/badge/NgRx-5E1F81?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
