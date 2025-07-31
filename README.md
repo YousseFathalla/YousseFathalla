@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-I'm a passionate **Frontend Developer** specializing in **Angular**, building scalable and performant web applications with clean architecture and modern UI using Tailwind CSS and Signals. I follow modern Angular best practices and strive for clean, accessible, and maintainable code.
+I'm a passionate **Frontend Developer** specializing in **Angular**, building scalable and performant web applications with clean architecture and modern UI using Tailwind CSS and Angular. I follow modern Angular best practices and strive for clean, accessible, and maintainable code.
 
 ---
 
@@ -12,9 +12,9 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ## 🧰 Libraries & UI Kits
 
-![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-FFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![NgRx](https://img.shields.io/badge/NgRx-A80000?style=for-the-badge&logo=redux&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-B3E5FC?style=for-the-badge&logo=angular&logoColor=0D47A1)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-FACC15?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![NgRx](https://img.shields.io/badge/NgRx-5E1F81?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
@@ -22,12 +22,12 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-3C64B1?style=for-the-badge)
-![Metronic](https://img.shields.io/badge/Metronic-009EF7?style=for-the-badge)
-![Flowbite](https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![UI.Angular-Material.dev](https://img.shields.io/badge/ui.angular--material.dev-006CFF?style=for-the-badge)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-FF0000?style=for-the-badge&logoColor=white)
+![Metronic](https://img.shields.io/badge/Metronic-FF6B6B?style=for-the-badge&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-FF0000?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![UI.Angular-Material.dev](https://img.shields.io/badge/ui.angular--material.dev-D1C4E9?style=for-the-badge&logoColor=6A1B9A)
 ![Angular-Material.dev](https://img.shields.io/badge/angular--material.dev-006CFF?style=for-the-badge)
-![Material Web](https://img.shields.io/badge/Material_Web-6200EE?style=for-the-badge)
+![Material Web](https://img.shields.io/badge/Material_Web-D1C4E9?style=for-the-badge&logoColor=6A1B9A)
 ![ngxtension](https://img.shields.io/badge/ngxtension-3C64B1?style=for-the-badge)
 
 ---
@@ -36,8 +36,8 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-7F56D9?style=for-the-badge)
-![Grok](https://img.shields.io/badge/Grok-FF3366?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-FFA64D?style=for-the-badge&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 ---
