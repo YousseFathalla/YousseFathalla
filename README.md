@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ My Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,rxjs,bootstrap,sass,tailwindcss,github)](https://skillicons.dev)
-
----
-
 ## 📫 Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/youssefathalla))
+[![Gmail](https://skillicons.dev/icons?i=gmail)](youssefathalla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL@gmail.com)
+
+## 🛠️ My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,rxjs,bootstrap,sass,tailwindcss,github,vscode)](https://skillicons.dev)
+
+
+
