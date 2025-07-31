@@ -1,4 +1,4 @@
-# Hi, I'm Youssef 👋
+# Hi, I'm Youssef Fathalla 👋
 
 I'm a passionate **Frontend Developer** specializing in **Angular**, building scalable and performant web applications with clean architecture and modern UI using Tailwind CSS and Angular. I follow modern Angular best practices and strive for clean, accessible, and maintainable code.
 
