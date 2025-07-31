@@ -44,7 +44,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 ## 🧑‍💻 IDE & Tools
 
 ![Windsurf](https://img.shields.io/badge/Windsurf-3C82F6?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
