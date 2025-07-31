@@ -4,6 +4,13 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ---
 
+## 🧑‍💻 IDE & Tools
+
+![Windsurf](https://img.shields.io/badge/Windsurf-white?style=for-the-badge&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)](https://skillicons.dev)
@@ -39,13 +46,6 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 ![Claude](https://img.shields.io/badge/Claude-FFA64D?style=for-the-badge&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-34A853?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 🧑‍💻 IDE & Tools
-
-![Windsurf](https://img.shields.io/badge/Windsurf-white?style=for-the-badge&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
