@@ -4,13 +4,6 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
----
-
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)](https://skillicons.dev)
@@ -53,6 +46,13 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ![Windsurf](https://img.shields.io/badge/Windsurf-white?style=for-the-badge&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
