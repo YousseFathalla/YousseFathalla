@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)](https://skillicons.dev)
 
 ---
 
@@ -88,5 +88,16 @@ A beautifully styled landing page inspired by the Natours concept:
 - Ideal for showcasing clean UI/UX design practices
 
 ---
+
+## 📚 Where I Learn and Stay Updated
+
+I actively follow top platforms and communities to stay sharp and keep up with the latest in Angular and frontend development:
+
+- [Medium](https://medium.com)
+- [X (formerly Twitter)](https://x.com)
+- [daily.dev](https://daily.dev)
+- [Angular Community](https://angular.io/community)
+- [angular.love](https://angular.love)
+- Developer Discord servers & channels
 
 ⭐️ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
