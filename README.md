@@ -28,6 +28,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 ![UI.Angular-Material.dev](https://img.shields.io/badge/ui.angular--material.dev-006CFF?style=for-the-badge)
 ![Angular-Material.dev](https://img.shields.io/badge/angular--material.dev-006CFF?style=for-the-badge)
 ![Material Web](https://img.shields.io/badge/Material_Web-6200EE?style=for-the-badge)
+![ngxtension](https://img.shields.io/badge/ngxtension-3C64B1?style=for-the-badge)
 
 ---
 
