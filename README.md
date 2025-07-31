@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -44,6 +44,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 ## 🧑‍💻 IDE & Tools
 
 ![Windsurf](https://img.shields.io/badge/Windsurf-3C82F6?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -54,15 +55,38 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ---
 
-## 🌱 Featured Project
+## 🌟 Featured Projects
 
-### [🌿 EarthHarvest](https://github.com/YOUR_USERNAME/EarthHarvest)
-An organic food marketplace built with Angular 20, TailwindCSS, and DaisyUI.
-- 🚀 Lazy-loaded routes and components
-- 🧠 Signals for local and derived state
-- 📦 NgOptimizedImage for fast image delivery
-- ♻️ Reusable and clean component architecture
+### 🌿 [EarthHarvest](https://earth-harvest.vercel.app/)
+An organic food delivery platform with rich features, modern UI, and optimized performance:
+- Built using Angular 20, TailwindCSS, and DaisyUI
+- Utilizes Signals and lazy-loaded components
+- Blog section, favorites system, and reusable UI architecture
 
 ---
 
-⭐️ Thank you for visiting my profile! Feel free to explore my projects and reach out!
+### 🏨 [Arjan Park](https://arjanpark.sa/)
+A real client project — hotel and apartment booking platform for Arjan Park in Saudi Arabia:
+- Dynamic booking flow and interactive room listings
+- Built with Angular and tailored to client needs
+- Mobile-first design and user-friendly interface
+
+---
+
+### 🕌 [Hatha Al Islam](https://hatha-alislam.net/)
+A modern Islamic website built for a real client with exceptional design and educational functionality:
+- Multi-section layout including Quran, Hadith, and learning resources
+- Fully responsive, optimized for accessibility
+- Intuitive user experience and modern design system
+
+---
+
+### 🌱 [Natures App](https://natures-app.vercel.app/)
+A beautifully styled landing page inspired by the Natours concept:
+- Fully responsive layout built with TailwindCSS
+- Sharp visual hierarchy, elegant spacing and color balance
+- Ideal for showcasing clean UI/UX design practices
+
+---
+
+⭐️ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
