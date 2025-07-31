@@ -6,7 +6,8 @@ I'm a passionate **Frontend Developer** specializing in **Angular**, building sc
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,angular,tailwindcss,rxjs,github,vscode,discord)
+
 
 ---
 
